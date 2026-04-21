@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15118","@regression Full Bug Submission Flow","chromium","2026-04-17","passed","2026-04-17","Sharelane End-to-End Tests","test.spec.ts","",""
+"","13644","@e2e Register and Order Flow","chromium","2026-04-17","passed","2026-04-17","Sharelane End-to-End Tests","test.spec.ts","",""
+"","3993","Sad Path Account Creation","chromium","2026-04-17","passed","2026-04-17","Sharelane End-to-End Tests","test.spec.ts","",""
+"","5544","Happy Path Account Creation","chromium","2026-04-17","passed","2026-04-17","Sharelane End-to-End Tests","test.spec.ts","",""

@@ -1,0 +1,21 @@
+{
+    "happyPath": {
+        "zip": "123456",
+        "firstName": "sweety",
+        "lastName": "kumari",
+        "email": "s@gmail.com",
+        "password": "1234567",
+        "successMessage": "Account is created!"
+    },
+    "sadPath": {
+        "zip": "123456",
+        "firstName": "swee567",
+        "lastName": "12345",
+        "email": "sQe",
+        "password": "12345",
+        "errorMessage": "Oops, error on page. Some of your fields have invalid data or email was previously used"
+    },
+    "bookOrder": {
+        "orderSuccess" : "Thank you for your order!!!"
+    }
+}
