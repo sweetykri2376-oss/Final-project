@@ -1,0 +1,11 @@
+Value: 1, Text: Reported
+Value: 2, Text: Assigned
+Value: 3, Text: Fix in progress
+Value: 4, Text: Fixed
+Value: 5, Text: Fix is verified
+Value: 6, Text: Verification failed
+Value: 7, Text: Cannot reproduce
+Value: 8, Text: Duplicate
+Value: 9, Text: Not a bug
+Value: 10, Text: 3rd party bug
+Value: 11, Text: No longer applicable
